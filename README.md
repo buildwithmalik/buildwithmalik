@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Malik 
 
-<!--
-**buildwithmalik/buildwithmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer at AWS** working on distributed storage systems in the Elastic File System (EFS) team.
 
-Here are some ideas to get you started:
+I build infrastructure that scales. My work focuses on fleet automation, performance testing, and systems that handle millions of operations reliably.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+🔧 **At AWS EFS**: Building automation systems for fleet management, performance testing for new product launches, and debugging complex distributed systems issues
+
+🌱 **Open Source**: Contributing to [PostHog](https://github.com/PostHog/posthog) – working on adding Azure Blob Storage export for PostHog customers (see [PR](https://github.com/PostHog/posthog/pull/43977))
+
+📱 **OU Notes**: Built and maintain a [mobile app](https://github.com/buildwithmalik/ounotes) serving 50,000+ students with lecture notes and resources
+
+## Technical Focus
+
+```
+Distributed Systems · Storage Infrastructure · Performance Testing
+```
+
+**Languages**: Python, Java, Go  
+**Infrastructure**: AWS (EFS, EC2, Lambda), Temporal, ClickHouse  
+**Previously**: Flutter/Dart for mobile (OU Notes, GSoC '22 with CCExtractor)
+
+## Notable Projects
+
+| Project | What it does | Impact |
+|---------|--------------|--------|
+| [PythonCheatSheet](https://github.com/buildwithmalik/PythonCheatSheet) | Quick reference for Python DSA syntax | 1.2k+ ⭐ |
+| [OU Notes](https://github.com/buildwithmalik/ounotes) | Academic resource platform for students | 50k+ downloads |
+| [PostHog Contributions](https://github.com/PostHog/posthog/pulls?q=author%3Abuildwithmalik) | Azure Blob Storage batch exports | In Review |
+
+## Let's connect
+
+📫 **Email**: contact@maliksquared.com  
+💼 **LinkedIn**: [in/buildwithmalik](https://linkedin.com/in/buildwithmalik)  
+🌐 **Website**: [maliksquared.com](https://maliksquared.com)
+
+---
+
+*Currently interested in backend/infrastructure roles focused on distributed systems, storage, and platform engineering.*
