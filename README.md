@@ -2,7 +2,7 @@
 
 **Software Engineer at AWS** working on distributed storage systems in the Elastic File System (EFS) team.
 
-I build infrastructure that scales. My work focuses on fleet automation, performance testing, and systems that handle millions of operations reliably.
+I build infrastructure that scales. My work focuses on distribued systems, performance testing, and systems that handle millions of operations reliably.
 
 ## What I'm working on
 
