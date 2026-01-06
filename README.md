@@ -20,7 +20,7 @@ Distributed Systems · Storage Infrastructure · Performance Testing
 
 **Languages**: Python, Java, Go  
 **Infrastructure**: AWS (EFS, EC2, Lambda), Temporal, ClickHouse  
-**Previously**: Flutter/Dart for mobile (OU Notes, GSoC '22 with CCExtractor)
+**Previously**: Flutter/Dart for mobile (OU Notes, Google Summer of Code '22 with CCExtractor)
 
 ## Notable Projects
 
