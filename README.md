@@ -5,10 +5,9 @@
 I build infrastructure that scales. My work focuses on distributed systems systems, performance testing, and systems that handle millions of operations reliably.
 
 ## What I'm working on
+🔧 **At AWS EFS**: Performance testing for large-scale product launches, capacity optimization, and debugging complex distributed systems issues
 
-🔧 **At AWS EFS**: Building automation systems for fleet management, performance testing for new product launches, and debugging complex distributed systems issues
-
-🌱 **Open Source**: Contributing to [PostHog](https://github.com/PostHog/posthog) – working on adding Azure Blob Storage export for PostHog customers (see [PR](https://github.com/PostHog/posthog/pull/43977))
+🌱 **Open Source**: Contributing to [PostHog](https://github.com/PostHog/posthog), building Azure Blob Storage batch export for customers ([PR](https://github.com/PostHog/posthog/pull/43977))
 
 📱 **OU Notes**: Built and maintain a [mobile app](https://github.com/buildwithmalik/ounotes) serving 50,000+ students with lecture notes and resources
 
