@@ -17,7 +17,7 @@ I build infrastructure that scales. My work focuses on distributed systems, perf
 Distributed Systems · Storage Infrastructure · Performance Testing
 ```
 
-**Languages**: Python, Java, Go  
+**Languages**: Python, Java, Go, Rust  
 **Infrastructure**: AWS (EFS, EC2, Lambda), Temporal, ClickHouse  
 **Previously**: Flutter/Dart for mobile (OU Notes, Google Summer of Code '22 with CCExtractor)
 
