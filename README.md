@@ -27,7 +27,7 @@ Distributed Systems · Storage Infrastructure · Performance Testing
 |---------|--------------|--------|
 | [PythonCheatSheet](https://github.com/buildwithmalik/PythonCheatSheet) | Quick reference for Python DSA syntax | 1.2k+ ⭐ |
 | [OU Notes](https://github.com/buildwithmalik/ounotes) | Academic resource platform for students | 50k+ downloads |
-| [PostHog Contributions](https://github.com/PostHog/posthog/pulls?q=author%3Abuildwithmalik) | Azure Blob Storage batch exports | In Review |
+| [PostHog Contributions](https://github.com/PostHog/posthog/pulls?q=author%3Abuildwithmalik) | Azure Blob Storage batch exports | Live for 250k+ customers |
 
 ## Let's connect
 
