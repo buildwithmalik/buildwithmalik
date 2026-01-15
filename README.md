@@ -17,7 +17,7 @@ I build infrastructure that scales. My work focuses on distributed systems, perf
 Distributed Systems · Storage Infrastructure · Performance Testing
 ```
 
-**Languages**: Python, Java, Go, Rust  
+**Languages**: Python, Java, Go
 **Infrastructure**: AWS (EFS, EC2, Lambda), Temporal, ClickHouse  
 **Previously**: Flutter/Dart for mobile (OU Notes, Google Summer of Code '22 with CCExtractor)
 
@@ -27,7 +27,7 @@ Distributed Systems · Storage Infrastructure · Performance Testing
 |---------|--------------|--------|
 | [PythonCheatSheet](https://github.com/buildwithmalik/PythonCheatSheet) | Quick reference for Python DSA syntax | 1.2k+ ⭐ |
 | [OU Notes](https://github.com/buildwithmalik/ounotes) | Academic resource platform for students | 50k+ downloads |
-| [PostHog Contributions](https://github.com/PostHog/posthog/pulls?q=author%3Abuildwithmalik) | Azure Blob Storage batch exports | Live for 250k+ customers |
+| [PostHog Contributions](https://github.com/PostHog/posthog/pulls?q=author%3Abuildwithmalik) | Azure Blob Storage batch exports | Live for 200k+ customers |
 
 ## Let's connect
 
