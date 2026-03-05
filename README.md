@@ -37,4 +37,3 @@ Distributed Systems · Storage Infrastructure · Performance Testing
 
 ---
 
-*Currently interested in backend/infrastructure roles focused on distributed systems, storage, and platform engineering.*
